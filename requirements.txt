@@ -1,0 +1,10 @@
+# CPU-first upload workflow. Python 3.13 (ARM64) preferred; 3.14 ARM64 tested here.
+numpy==2.5.2
+pandas==3.0.5
+scikit-learn==1.9.0
+scipy==1.18.0
+streamlit==1.62.0
+matplotlib==3.11.1
+Pillow==12.3.0
+openpyxl==3.1.5
+pytest==9.1.0
